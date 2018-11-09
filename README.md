@@ -5,4 +5,4 @@ A gtf file (make sure the 1st column (chromosome name) is numeric, e.g. 10, not 
 A bam file for the corresponding RNA-seq reads
 A txt file generated from RiboTaper output p_sites_all file that containing p-site counts, p-site position, chromosome info, strand info. 
 
-Citation: Super-resolution ribosome profiling reveals unannotated translation events in Arabidopsis. Proc Natl Acad Sci U S A. 2016 Nov 8;113(45):E7126-E7135. doi: 10.1073/pnas.1614788113. Epub 2016 Oct 21
+Citation: Super-resolution ribosome profiling reveals unannotated translation events in Arabidopsis. Proc Natl Acad Sci USA. 2016 Nov 8;113(45):E7126-E7135. doi: 10.1073/pnas.1614788113. Epub 2016 Oct 21
