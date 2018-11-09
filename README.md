@@ -1,6 +1,9 @@
 ### Ribo-seq 3 nt periodicity plot 
 This code was used for plotting the 3-nt periodicity from Ribo-seq data together with the RNA-seq result.  
 
+For example:
+![alt text](https://github.com/PollyHsuLab/Ribo-seq-plot-for-Hsu-et-al-2016/blob/master/Rplot01.jpg)
+
 #### What is required:
 1. A gtf file (make sure the 1st column (chromosome name) is numeric, e.g. 10, not Chr10)  
 2. A bam file for the corresponding RNA-seq reads  
