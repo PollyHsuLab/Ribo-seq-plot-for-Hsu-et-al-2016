@@ -17,5 +17,6 @@ For example: A gene with uORF
 2. you can plot uORFs For example: 'PLOT(YFG ="AT2G18160",uORF="AT2G18162",CDSonly=F)'   
    However, if you find new uORFs and want to plot it, you will need to have the coordinate and uORF names in the gtf.  
 3. gtf only, no gff
+4. You can plot different isoform: 'PLOT(YFG ="AT2G46980",isoform=2)'
 
 **Citation**: Super-resolution ribosome profiling reveals unannotated translation events in Arabidopsis. Proc Natl Acad Sci USA. 2016 Nov 8;113(45):E7126-E7135. doi: 10.1073/pnas.1614788113. Epub 2016 Oct 21
