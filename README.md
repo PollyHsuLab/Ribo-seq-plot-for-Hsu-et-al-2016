@@ -20,3 +20,7 @@ For example: A gene with uORF
 4. You can plot different isoform: `PLOT(YFG ="AT2G46980",isoform=2)`  
 
 **Citation**: Super-resolution ribosome profiling reveals unannotated translation events in Arabidopsis. Proc Natl Acad Sci USA. 2016 Nov 8;113(45):E7126-E7135. doi: 10.1073/pnas.1614788113. Epub 2016 Oct 21
+
+### RiboPlotR release
+Github: https://github.com/hsinyenwu/RiboPlotR
+Paper: https://www.biorxiv.org/content/10.1101/694646v1.article-metrics
